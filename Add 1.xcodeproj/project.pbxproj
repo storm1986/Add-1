@@ -13,6 +13,7 @@
 		2BBA047E2411531900A3B1C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BBA047C2411531900A3B1C2 /* Main.storyboard */; };
 		2BBA04802411532000A3B1C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BBA047F2411532000A3B1C2 /* Assets.xcassets */; };
 		2BBA04832411532000A3B1C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BBA04812411532000A3B1C2 /* LaunchScreen.storyboard */; };
+		2BBA048B2414F0A100A3B1C2 /* HVD_Comic_Serif_Pro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BBA048A2414F0A100A3B1C2 /* HVD_Comic_Serif_Pro.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2BBA047F2411532000A3B1C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BBA04822411532000A3B1C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BBA04842411532000A3B1C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BBA048A2414F0A100A3B1C2 /* HVD_Comic_Serif_Pro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = HVD_Comic_Serif_Pro.otf; path = "HVD-Comic-Serif-Pro/HVD_Comic_Serif_Pro.otf"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2BBA047F2411532000A3B1C2 /* Assets.xcassets */,
 				2BBA04812411532000A3B1C2 /* LaunchScreen.storyboard */,
 				2BBA04842411532000A3B1C2 /* Info.plist */,
+				2BBA048A2414F0A100A3B1C2 /* HVD_Comic_Serif_Pro.otf */,
 			);
 			path = "Add 1";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				2BBA04832411532000A3B1C2 /* LaunchScreen.storyboard in Resources */,
 				2BBA04802411532000A3B1C2 /* Assets.xcassets in Resources */,
+				2BBA048B2414F0A100A3B1C2 /* HVD_Comic_Serif_Pro.otf in Resources */,
 				2BBA047E2411531900A3B1C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
